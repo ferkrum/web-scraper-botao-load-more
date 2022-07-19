@@ -7,3 +7,5 @@ O resultado gera um Pandas Dataframe contendo todos os campos coletados de cada 
 Linguagem: Python
 
 Bibliotecas: requests, json
+
+Para acessar, clique [aqui](https://github.com/ferkrum/web-scraper-botao-load-more/blob/main/Web_Scraper_botao_'carregar_mais'_V3_(vendas).ipynb).
