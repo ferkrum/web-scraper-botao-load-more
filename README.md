@@ -10,4 +10,4 @@ Linguagem: Python
 
 Bibliotecas: requests, json, folium
 
-Para acessar, clique [aqui](https://github.com/ferkrum/web-scraper-botao-load-more/blob/main/Web_Scraper_botao_'carregar_mais'_V3_(vendas).ipynb).
+Para acessar, clique [aqui](https://github.com/ferkrum/web-scraper-botao-load-more/blob/main/Web_Scraper_botao_'carregar_mais'_V4_(vendas).ipynb).
