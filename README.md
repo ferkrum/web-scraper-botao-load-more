@@ -5,4 +5,5 @@ Exemplo usando site de uma imobiliária.
 O resultado gera um Pandas Dataframe contendo todos os campos coletados de cada imóvel (63 colunas).
 
 Linguagem: Python
+
 Bibliotecas: requests, json
