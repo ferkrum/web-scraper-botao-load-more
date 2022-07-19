@@ -4,9 +4,10 @@ Fazendo scrap de uma pagina que contém botão de carregar mais.
 
 Exemplo usando site de uma imobiliária.
 O resultado gera um Pandas Dataframe contendo todos os campos coletados de cada imóvel (63 colunas).
+Ao final, o programa gera um mapa usando os campos de longitude e latitude obtidos na raspagem dos dados. O mapa foi criado usando a biblioteca [Folium](https://python-visualization.github.io/folium/).
 
 Linguagem: Python
 
-Bibliotecas: requests, json
+Bibliotecas: requests, json, folium
 
 Para acessar, clique [aqui](https://github.com/ferkrum/web-scraper-botao-load-more/blob/main/Web_Scraper_botao_'carregar_mais'_V3_(vendas).ipynb).
