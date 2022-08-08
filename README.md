@@ -1,4 +1,4 @@
-# Web scraper de um site com botão de "carregar mais" ("load more" em inglês)
+# Web scraper de um site com botão de "carregar mais" (_load more_)
 
 Fazendo scrap de uma pagina que contém botão de carregar mais. 
 
